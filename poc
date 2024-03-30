@@ -1,0 +1,2 @@
+sonar.projectKey=gitlab
+sonar.qualitygate.wait=true
